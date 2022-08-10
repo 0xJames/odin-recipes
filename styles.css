@@ -1,0 +1,15 @@
+h1 {
+  font-size: 50px;
+  text-align: center; 
+  color: green;
+  font-family:"Brush Script MT", 'Courier New', Courier, monospace;
+  font-weight: bold;
+
+}
+
+.link{
+  font-size: 25px;
+  background-color: aqua;
+  color:red;
+  font-family: monospace;
+}
